@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="MoTa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR001</MaNCC>
+    <TenNCC>Trang trại Vườn Xanh</TenNCC>
+    <DiaChi>Xã Tân Phú, Huyện Quốc Oai, Hà Nội</DiaChi>
+    <SDT>982345678</SDT>
+    <Email>vuonxanh@gmail.com</Email>
+    <MoTa>Chuyên cung cấp xoài, cam và bưởi tươi sạch</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR002</MaNCC>
+    <TenNCC>Nông trại An Bình</TenNCC>
+    <DiaChi>Thôn Đồng Tiến, Huyện Đông Anh, Hà Nội</DiaChi>
+    <SDT>987112233</SDT>
+    <Email>anbinhfarm@gmail.com</Email>
+    <MoTa>Chuyên phân phối chuối, dứa và mít chín</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR003</MaNCC>
+    <TenNCC>Trại Hoa Quả Ba Vì</TenNCC>
+    <DiaChi>Ba Vì, Hà Nội</DiaChi>
+    <SDT>986445322</SDT>
+    <Email>hoaquabavi@gmail.com</Email>
+    <MoTa>Trái cây sạch: ổi, táo, na, hồng giòn</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR004</MaNCC>
+    <TenNCC>HTX Trái Cây Hương Đồng</TenNCC>
+    <DiaChi>Xã Tiền Phong, Huyện Thường Tín, Hà Nội</DiaChi>
+    <SDT>984556677</SDT>
+    <Email>huongdongfarm@gmail.com</Email>
+    <MoTa>Cung cấp sỉ trái cây đặc sản miền Bắc</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR005</MaNCC>
+    <TenNCC>Green Farm</TenNCC>
+    <DiaChi>Hà Nội</DiaChi>
+    <SDT>12345678</SDT>
+    <Email>greenfarm@gmail.com</Email>
+    <MoTa>Cung cấp sỉ trái cây tươi Vinamilk</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>

@@ -1,0 +1,84 @@
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe.config
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.pdb
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.AssemblyReference.cache
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDangNhap.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDoiMatKhau.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHang.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmMain.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.GUI.frmHoaDon.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.GUI.frmNhaCungCap.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmNhanVien.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmPhieuNhapHang.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmTaiKhoanNV.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmXacNhanDiLam.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.Properties.Resources.resources
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.GenerateResource.cache
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.CoreCompileInputs.cache
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.pdb
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe.config
+E:\UTE\TECNA\YEAR3.1\T_C#\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.ThongKeHoaDon.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe.config
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.pdb
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.AssemblyReference.cache
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe.config
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDangNhap.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDoiMatKhau.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHang.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmMain.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHoaDon.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.GUI.frmNhaCungCap.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmNhanVien.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmPhieuNhapHang.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmTaiKhoanNV.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmXacNhanDiLam.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.ThongKeHoaDon.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.Properties.Resources.resources
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.GenerateResource.cache
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.CoreCompileInputs.cache
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe
+F:\UTE\125\xml\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.pdb
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe.config
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.pdb
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.AssemblyReference.cache
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe.config
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDangNhap.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDoiMatKhau.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHang.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmMain.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHoaDon.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.GUI.frmNhaCungCap.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmNhanVien.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmPhieuNhapHang.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmTaiKhoanNV.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmXacNhanDiLam.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.ThongKeHoaDon.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.Properties.Resources.resources
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.GenerateResource.cache
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.CoreCompileInputs.cache
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe
+E:\UTE\TECNA\YEAR3.1\TXML\QuanLyTraiCay (2)\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.pdb
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe.config
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.exe
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\bin\Debug\QuanLyTraiCay.pdb
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.AssemblyReference.cache
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe.config
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDangNhap.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmDoiMatKhau.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHang.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmMain.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmHoaDon.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.GUI.frmNhaCungCap.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmNhanVien.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmPhieuNhapHang.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmTaiKhoanNV.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.frmXacNhanDiLam.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.gui.ThongKeHoaDon.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.Properties.Resources.resources
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.GenerateResource.cache
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.csproj.CoreCompileInputs.cache
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.exe
+F:\UTE\125\xml\QuanLyTraiCay 2\QuanLyTraiCay\QuanLyTraiCay\obj\Debug\QuanLyTraiCay.pdb

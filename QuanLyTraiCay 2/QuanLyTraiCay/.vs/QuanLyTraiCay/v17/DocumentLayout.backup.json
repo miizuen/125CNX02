@@ -1,0 +1,830 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmxacnhandilam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmxacnhandilam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmtaikhoannv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmtaikhoannv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmphieunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmphieunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmtaikhoannv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmtaikhoannv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhanVien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\NhanVien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|f:\\ute\\125\\xml\\quanlytraicay 2\\quanlytraicay\\quanlytraicay\\class\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChamCong.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\ChamCong.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\Hang.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\HoaDon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\HoaDon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhethong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhethong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\resources\\fruit_background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\resources\\fruit_background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\help.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\help.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\thongkehoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\thongkehoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\thongkehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmxacnhandilam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmxacnhandilam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmphieunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmphieunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\class\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\class\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\quanlytraicay\\gui\\frmphieunhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4397F4A-C47D-4111-BD96-0E72CB2C2AFC}|QuanLyTraiCay\\QuanLyTraiCay.csproj|solutionrelative:quanlytraicay\\gui\\frmphieunhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\Hang.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:58:33.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDoiMatKhau.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmDoiMatKhau.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAywF8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:58:10.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongKeHoaDon.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\ThongKeHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:17:36.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmXacNhanDiLam.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:09:25.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTaiKhoanNV.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:07:26.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPhieuNhapHang.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:04:17.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:03:21.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNhaCungCap.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhaCungCap.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:03:04.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:48:59.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHeThong.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:00:55.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmHang.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHang.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHang.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHang.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:00:29.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:58:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmDangNhap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:58:08.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTaiKhoanNV.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmTaiKhoanNV.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAD4vywAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:07:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\NhanVien.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\NhanVien.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\NhanVien.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:31.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaiKhoan.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\TaiKhoan.xml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T08:24:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NhanVien.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhanVien.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\NhanVien.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhanVien.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\NhanVien.xml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T08:19:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\DangNhap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\DangNhap.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\DangNhap.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\Main.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\Main.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\Main.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\HoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\HoaDon.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\HoaDon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwJYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HeThong.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\HeThong.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\HeThong.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\HeThong.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\HeThong.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:51:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HoaDon.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\HoaDon.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\HoaDon.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\HoaDon.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\HoaDon.xml",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0oAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-01T02:39:50.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NhaCungCap.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvz4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T08:18:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PhieuNhap.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\PhieuNhap.xml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T08:21:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChamCong.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChamCong.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\ChamCong.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChamCong.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\ChamCong.xml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-30T08:16:30.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietHoaDon.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\ChiTietHoaDon.xml",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4UAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-06T03:55:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hang.xml",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xml",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\Hang.xml",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xml",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\Hang.xml",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-01T08:06:15.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmHeThong.Designer.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHeThong.Designer.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.Designer.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHeThong.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAwwEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:01:04.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fruit_background.png - PNG [1204x890, 24 bit, PNG]",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\Resources\\fruit_background.png",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\Resources\\fruit_background.png",
+              "ToolTip": "E:\\UTE\\TECNA\\YEAR3.1\\TXML\\QuanLyTraiCay (2)\\QuanLyTraiCay\\QuanLyTraiCay\\Resources\\fruit_background.png - PNG [1204x890, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-05T16:21:03.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\Properties\\Resources.resx",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\Properties\\Resources.resx",
+              "RelativeToolTip": "QuanLyTraiCay\\Properties\\Resources.resx",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAlwHcAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-05T16:22:16.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmHeThong.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHeThong.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAjwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:02:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Hang.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\Hang.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\Hang.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\Hang.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\Hang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "help.html",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\help.html",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\help.html",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\help.html",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\help.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-04T16:22:32.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DoiMatKhau.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\DoiMatKhau.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\DoiMatKhau.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\DoiMatKhau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ThongKeHoaDon.Designer.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\ThongKeHoaDon.Designer.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.Designer.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\ThongKeHoaDon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:28:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ThongKeHoaDon.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\ThongKeHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\ThongKeHoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\ThongKeHoaDon.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\ThongKeHoaDon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:17:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ThongKeHoaDon.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\ThongKeHoaDon.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:19:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:49:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\PhieuNhap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\PhieuNhap.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmHoaDon.Designer.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHoaDon.Designer.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHoaDon.Designer.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHoaDon.Designer.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAkwGgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:49:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmXacNhanDiLam.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmXacNhanDiLam.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:09:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmPhieuNhapHang.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:04:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmNhanVien.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:03:22.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmNhaCungCap.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:03:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmHang.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHang.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmHang.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmHang.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmHang.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:00:33.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\class\\NhaCungCap.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\class\\NhaCungCap.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\class\\NhaCungCap.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:59:28.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmPhieuNhapHang.Designer.cs",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.Designer.cs",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\gui\\frmPhieuNhapHang.Designer.cs",
+              "RelativeToolTip": "QuanLyTraiCay\\gui\\frmPhieuNhapHang.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:15:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Hang.xslt",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xslt",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\Hang.xslt",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\Hang.xslt",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\Hang.xslt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-11-01T02:39:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NhaCungCap.xslt",
+              "DocumentMoniker": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt",
+              "RelativeDocumentMoniker": "QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt",
+              "ToolTip": "F:\\UTE\\125\\xml\\QuanLyTraiCay 2\\QuanLyTraiCay\\QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt",
+              "RelativeToolTip": "QuanLyTraiCay\\bin\\Debug\\NhaCungCap.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-11-01T08:07:39.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_HoaDon_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_HoaDon_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SoHoaDon" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayLap" type="xs:string" minOccurs="0" />
+                <xs:element name="TongTien" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>1</SoHoaDon>
+    <MaNhanVien>NV001</MaNhanVien>
+    <NgayLap>2025-11-01 09:15:00 AM</NgayLap>
+    <TongTien>1750000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>2</SoHoaDon>
+    <MaNhanVien>NV002</MaNhanVien>
+    <NgayLap>2025-11-01 11:30:00 AM</NgayLap>
+    <TongTien>6000000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>3</SoHoaDon>
+    <MaNhanVien>NV003</MaNhanVien>
+    <NgayLap>2025-11-01 03:45:00 PM</NgayLap>
+    <TongTien>3025000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>4</SoHoaDon>
+    <MaNhanVien>NV001</MaNhanVien>
+    <NgayLap>2025-11-04 08:33:41 PM</NgayLap>
+    <TongTien>385000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>5</SoHoaDon>
+    <MaNhanVien>NV001</MaNhanVien>
+    <NgayLap>2025-11-04 08:52:07 PM</NgayLap>
+    <TongTien>1950000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>6</SoHoaDon>
+    <MaNhanVien>NV003</MaNhanVien>
+    <NgayLap>2025-11-04 09:01:09 PM</NgayLap>
+    <TongTien>750000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>7</SoHoaDon>
+    <MaNhanVien>NV001</MaNhanVien>
+    <NgayLap>2025-11-04 10:06:44 PM</NgayLap>
+    <TongTien>1130000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>8</SoHoaDon>
+    <MaNhanVien>NV001</MaNhanVien>
+    <NgayLap>2025-11-04 10:12:50 PM</NgayLap>
+    <TongTien>65000</TongTien>
+  </_x0027_HoaDon_x0027_>
+  <_x0027_HoaDon_x0027_>
+    <SoHoaDon>9</SoHoaDon>
+    <MaNhanVien>NV003</MaNhanVien>
+    <NgayLap>2025-11-04 10:27:22 PM</NgayLap>
+    <TongTien>1475000</TongTien>
+  </_x0027_HoaDon_x0027_>
+</NewDataSet>

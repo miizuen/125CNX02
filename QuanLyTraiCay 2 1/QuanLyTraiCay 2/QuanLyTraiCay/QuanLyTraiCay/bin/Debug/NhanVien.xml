@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhanVien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhanVien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV001</MaNhanVien>
+    <TenNhanVien>Bạch Ngọc Mỹ Duyên</TenNhanVien>
+    <NgaySinh>2005-11-15 12:00:00 AM</NgaySinh>
+    <DiaChi>Quãng Ngãi</DiaChi>
+    <SDT>912345678</SDT>
+    <Email>myduyen.bach@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV002</MaNhanVien>
+    <TenNhanVien>Nguyễn Trí Trường</TenNhanVien>
+    <NgaySinh>2005-08-10 12:00:00 AM</NgaySinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>934567891</SDT>
+    <Email>nguyentrtruong@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV003</MaNhanVien>
+    <TenNhanVien>Nguyễn Hà Vi</TenNhanVien>
+    <NgaySinh>2006-01-20 12:00:00 AM</NgaySinh>
+    <DiaChi>Hà Tĩnh</DiaChi>
+    <SDT>967845321</SDT>
+    <Email>nguyenhavi@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV004</MaNhanVien>
+    <TenNhanVien>Nguyễn Văn Lũy</TenNhanVien>
+    <NgaySinh>2004-12-25 12:00:00 AM</NgaySinh>
+    <DiaChi>Quảng Trị</DiaChi>
+    <SDT>983452176</SDT>
+    <Email>vanluy.nguyen@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV005</MaNhanVien>
+    <TenNhanVien>Võ Đức Phú</TenNhanVien>
+    <NgaySinh>2005-09-05 12:00:00 AM</NgaySinh>
+    <DiaChi>Quảng Nam</DiaChi>
+    <SDT>981234567</SDT>
+    <Email>phu.vo@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV008</MaNhanVien>
+    <TenNhanVien>Phùng Văn Vũ</TenNhanVien>
+    <NgaySinh>2005-06-15 12:00:00 AM</NgaySinh>
+    <DiaChi>12 Trường Chinh</DiaChi>
+    <SDT>712345678</SDT>
+    <Email>vu@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+</NewDataSet>

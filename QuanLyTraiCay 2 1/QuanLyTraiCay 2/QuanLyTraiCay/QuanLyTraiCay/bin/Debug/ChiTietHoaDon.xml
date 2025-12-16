@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_ChiTietHoaDon_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_ChiTietHoaDon_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="SoHoaDon" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGia" type="xs:int" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>1</Id>
+    <MaHang>TP001</MaHang>
+    <SoHoaDon>1</SoHoaDon>
+    <DonGia>65000</DonGia>
+    <SoLuong>10</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>2</Id>
+    <MaHang>TP002</MaHang>
+    <SoHoaDon>1</SoHoaDon>
+    <DonGia>55000</DonGia>
+    <SoLuong>20</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>3</Id>
+    <MaHang>TP003</MaHang>
+    <SoHoaDon>2</SoHoaDon>
+    <DonGia>75000</DonGia>
+    <SoLuong>40</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>4</Id>
+    <MaHang>TP004</MaHang>
+    <SoHoaDon>2</SoHoaDon>
+    <DonGia>120000</DonGia>
+    <SoLuong>25</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>5</Id>
+    <MaHang>TP005</MaHang>
+    <SoHoaDon>3</SoHoaDon>
+    <DonGia>35000</DonGia>
+    <SoLuong>15</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>6</Id>
+    <MaHang>TP002</MaHang>
+    <SoHoaDon>3</SoHoaDon>
+    <DonGia>55000</DonGia>
+    <SoLuong>20</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>7</Id>
+    <MaHang>TP001</MaHang>
+    <SoHoaDon>3</SoHoaDon>
+    <DonGia>65000</DonGia>
+    <SoLuong>10</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>8</Id>
+    <MaHang>TP002</MaHang>
+    <SoHoaDon>4</SoHoaDon>
+    <DonGia>55000</DonGia>
+    <SoLuong>7</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>9</Id>
+    <MaHang>TP001</MaHang>
+    <SoHoaDon>5</SoHoaDon>
+    <DonGia>65000</DonGia>
+    <SoLuong>30</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>10</Id>
+    <MaHang>TP003</MaHang>
+    <SoHoaDon>6</SoHoaDon>
+    <DonGia>75000</DonGia>
+    <SoLuong>10</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>11</Id>
+    <MaHang>TP003</MaHang>
+    <SoHoaDon>7</SoHoaDon>
+    <DonGia>75000</DonGia>
+    <SoLuong>12</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>12</Id>
+    <MaHang>TP001</MaHang>
+    <SoHoaDon>7</SoHoaDon>
+    <DonGia>65000</DonGia>
+    <SoLuong>1</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>13</Id>
+    <MaHang>TP002</MaHang>
+    <SoHoaDon>7</SoHoaDon>
+    <DonGia>55000</DonGia>
+    <SoLuong>3</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>14</Id>
+    <MaHang>TP001</MaHang>
+    <SoHoaDon>8</SoHoaDon>
+    <DonGia>65000</DonGia>
+    <SoLuong>1</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>15</Id>
+    <MaHang>TP004</MaHang>
+    <SoHoaDon>9</SoHoaDon>
+    <DonGia>120000</DonGia>
+    <SoLuong>12</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>16</Id>
+    <MaHang>TP005</MaHang>
+    <SoHoaDon>9</SoHoaDon>
+    <DonGia>35000</DonGia>
+    <SoLuong>1</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+</NewDataSet>

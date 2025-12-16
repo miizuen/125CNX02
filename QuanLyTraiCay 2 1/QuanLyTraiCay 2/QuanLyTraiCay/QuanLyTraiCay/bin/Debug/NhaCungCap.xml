@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="MoTa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR004</MaNCC>
+    <TenNCC>HTX Trái Cây Hương Đồng</TenNCC>
+    <DiaChi>Xã Tiền Phong, Huyện Thường Tín, Hà Nội</DiaChi>
+    <SDT>984556677</SDT>
+    <Email>huongdongfarm@gmail.com</Email>
+    <MoTa>Cung cấp sỉ trái cây đặc sản miền Bắc</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR005</MaNCC>
+    <TenNCC>Green Farm</TenNCC>
+    <DiaChi>Hà Nội</DiaChi>
+    <SDT>12345678</SDT>
+    <Email>greenfarm@gmail.com</Email>
+    <MoTa>Cung cấp sỉ trái cây tươi Vinamilk</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR008</MaNCC>
+    <TenNCC>Vina Fruit</TenNCC>
+    <DiaChi>123 Lạng Sơn</DiaChi>
+    <SDT>612345678</SDT>
+    <Email>vinafruit@gmail.com</Email>
+    <MoTa>Chuyên cung cấp trái cây tươi mới</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR009</MaNCC>
+    <TenNCC>Cô gái Hà Lan</TenNCC>
+    <DiaChi>32 Thanh Hóa</DiaChi>
+    <SDT>612345677</SDT>
+    <Email>halan@gmail.com</Email>
+    <MoTa>Không cung cấp trái cây</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>FR011</MaNCC>
+    <TenNCC>Cô gái Campuchia</TenNCC>
+    <DiaChi>123 Campuchia</DiaChi>
+    <SDT>612345674</SDT>
+    <Email>campuchia@gmail.com</Email>
+    <MoTa>Đồ ăn tươi sống</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>
